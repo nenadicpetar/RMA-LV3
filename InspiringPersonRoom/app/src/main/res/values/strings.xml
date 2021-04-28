@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Inspiring Person Room</string>
+
+    <string name="person_list_button">Lista osoba</string>
+    <string name="remove_button">Ukloniti</string>
+
+    <string name="default_name">Ime i prezime</string>
+    <string name="default_date">01.01.1800 – 31.12.2100.</string>
+    <string name="default_description">Napisati nešto o osobi i njihovom doprinosu na polju Računarstva. Dovoljna je jedna ili dvije rečenice.</string>
+    <string name="default_photo">Mjesto za sliku.</string>
+
+    <string name="title_input">Unos novih osoba</string>
+    <string name="photo_input">URL slike</string>
+    <string name="name_input">Ime i prezime</string>
+    <string name="birthdate_input">Datum rođenja</string>
+    <string name="deathdate_input">Datum smrti</string>
+    <string name="desc_input">Opis osobe</string>
+    <string name="quote_input">Citat</string>
+    <string name="save_button_input">Spremi</string>
+    <string name="button_list_input">Lista osoba</string>
+</resources>
